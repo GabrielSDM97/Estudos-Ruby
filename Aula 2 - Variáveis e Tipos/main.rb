@@ -7,10 +7,10 @@ permissao = true # ou false
 valor_nulo = nil # Equivale a Null em Python
 
 # Tudo é objeto em Ruby, assim como é em Python.
-puts nome.class
-puts idade.class
-puts altura.class
-puts permissao.class
-puts valor_nulo.class
+puts (nome.class)
+puts (idade.class)
+puts (altura.class)
+puts (permissao.class)
+puts (valor_nulo.class)
 
 

@@ -1,6 +1,6 @@
 # Imprime sem quebrar linha
-print "olá mundo!"
+print ("olá ")
 
 # Imprime quebrando linha
-puts "olá mundo!"
-puts "vamos estudar!"
+puts ("mundo!")
+puts ("vamos estudar!")
