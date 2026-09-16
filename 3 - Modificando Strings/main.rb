@@ -19,5 +19,5 @@ puts (frase[2,9])
 # Retorna o primeiro índice contendo o argumento do método abaixo
 puts (frase.index("Olá"))
 
-# "#{}" = Formatação de string em Ruby
+# "#{}" = Interpolação de string em Ruby
 puts ("Frase: #{frase.strip()}".upcase())

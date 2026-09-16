@@ -12,5 +12,3 @@ puts (idade.class)
 puts (altura.class)
 puts (permissao.class)
 puts (valor_nulo.class)
-
-
