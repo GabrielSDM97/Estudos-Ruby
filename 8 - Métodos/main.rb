@@ -4,12 +4,10 @@ def funcaoExemplo(string1 = "Olá", string2 = "Mundo!")
 end
 
 # Retorna tupla
-def tupla(num1, num2, num3)
+def retornoMultiplo(num1, num2, num3)
   return num1, num2, num3
 end
 
 puts (funcaoExemplo())
 puts (funcaoExemplo("Tudo", "Bem?"))
-
-# Imprime cada índice da tupla em uma linha
-puts (tupla(2,4,8)[0,3])
+puts (retornoMultiplo(2,4,8)[0,2])
